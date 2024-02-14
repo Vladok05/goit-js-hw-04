@@ -11,7 +11,7 @@ const calcAverageCalories = days => {
   }
   return weeklyAverageCaloriesOfWeek;
 };
-console.log('task - 2');
+console.log('task-2');
 console.log(
   calcAverageCalories([
     { day: 'monday', calories: 3010 },

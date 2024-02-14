@@ -24,7 +24,7 @@ const profile = {
     return `${profile.username} has ${profile.playTime} active hours!`;
   },
 };
-console.log('tsk-3');
+console.log('task-3');
 console.log(profile.getInfo()); // "Jacob has 300 active hours!"
 
 profile.changeUsername('Marco');
